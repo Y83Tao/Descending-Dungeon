@@ -1,5 +1,3 @@
-# Descending-Labryinth-y83tao
-
 # Descending Labryinth WIP
 Link to Pre-Alpha Build Document: https://bit.ly/2XGqVoW
 
