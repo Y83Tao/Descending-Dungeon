@@ -1,4 +1,7 @@
-# Descending Labryinth WIP
+# Descending Labryinth 
+Version 0.1 Pre-Alpha
+![gif](https://drive.google.com/file/d/1WvJxXut-CfI59O8OdA0_5nzgMWmZMdTO/view?usp=sharing)
+
 Link to Pre-Alpha Build Document: https://bit.ly/2XGqVoW
 
 # About
