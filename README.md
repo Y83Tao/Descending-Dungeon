@@ -1,6 +1,6 @@
 # Descending Labryinth 
 Version 0.1 Pre-Alpha
-![gif](https://drive.google.com/uc?export=view&id=<1WvJxXut-CfI59O8OdA0_5nzgMWmZMdTO>)
+![gif](https://drive.google.com/uc?export=view&id=1WvJxXut-CfI59O8OdA0_5nzgMWmZMdTO)
 
 Link to Pre-Alpha Build Document: https://bit.ly/2XGqVoW
 
