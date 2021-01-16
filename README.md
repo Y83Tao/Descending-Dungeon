@@ -3,8 +3,6 @@ Version 0.1 Pre-Alpha
 
 ![gif](https://drive.google.com/uc?export=view&id=1WvJxXut-CfI59O8OdA0_5nzgMWmZMdTO)
 
-
-
 Link to Pre-Alpha Build Document: https://bit.ly/2XGqVoW
 
 # About Build
@@ -12,4 +10,4 @@ Descending Labyrinths is a work-in-progress rogue-like dungeon crawler, presente
 
 # Demo Showcase
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://drive.google.com/file/d/19wOt4qFzCiBrGTeKLnV4ZN0TDIlk6eTQ/view)
+[![Watch the video](https://drive.google.com/uc?export=view&id=1I9vMIwGb2FK0RLR4fq0DBicd5Ebz7NGU)](https://drive.google.com/file/d/19wOt4qFzCiBrGTeKLnV4ZN0TDIlk6eTQ/view)
